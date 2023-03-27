@@ -1,1 +1,1 @@
-Project repo with Docker + AWS Elastic Beanstak intigration for game 2048.
+Project repo with Docker file for game 2048 hosted with AWS Elastic Beanstalk.
